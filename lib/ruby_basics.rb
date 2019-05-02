@@ -11,7 +11,7 @@ def argue(phrase)
 end
 
 def greeting (greeting, name)
-  greeting("Hi there,")
+  greeting = ("Hi there,")
   name = ("Bobby")
 end
 
